@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SampleWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:SampleWebApi.Controllers.CustomersController.GetCustomers">
+            <summary>
+            This Method Returns All Customers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SampleWebApi.Controllers.CustomersController.GetCustomer(System.Int32)">
+            <summary>
+            This Method Gets Customer By It's Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SampleWebApi.Controllers.CustomersController.PutCustomer(System.Int32,Sample_DataAccess.Entities.Customer)">
+            <summary>
+            This Method Update Customer
+            </summary>
+            <param name="id"></param>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SampleWebApi.Controllers.CustomersController.PostCustomer(Sample_DataAccess.Entities.Customer)">
+            <summary>
+            This Method Adds A New Customer
+            </summary>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SampleWebApi.Controllers.CustomersController.DeleteCustomer(System.Int32)">
+            <summary>
+            This Method Deletes Customer
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

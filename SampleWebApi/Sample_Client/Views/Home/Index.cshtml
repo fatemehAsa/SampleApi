@@ -1,0 +1,42 @@
+﻿@model List<Customer>
+@{
+    ViewData["Title"] = "Home Page";
+    int row = 1;
+}
+
+<h2 class="m-3">
+    <a asp-action="Create" class="btn btn-success">Create New Customer</a>
+</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr class="table-secondary text-center">
+            <th>#</th>
+            <th>Name</th>
+            <th>Family</th>
+            <th>Email</th>
+            <th></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+
+                <tr class="text-center">
+                    <td>@row</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Email</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-customerId="@item.CustomerId" class="btn btn-warning">Edit</a>
+                        <a href="/Home/Delete/@item.CustomerId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+                row++;
+            }
+        }
+    </tbody>
+</table>
+
+

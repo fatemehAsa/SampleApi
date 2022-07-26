@@ -1,0 +1,15 @@
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\Sample_DataAccess.deps.json
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\Sample_DataAccess.runtimeconfig.json
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\Sample_DataAccess.runtimeconfig.dev.json
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\Sample_DataAccess.dll
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\ref\Sample_DataAccess.dll
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\bin\Debug\net5.0\Sample_DataAccess.pdb
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.AssemblyInfoInputs.cache
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.AssemblyInfo.cs
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.dll
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\ref\Sample_DataAccess.dll
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.pdb
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.genruntimeconfig.cache
+C:\Users\fateme\OneDrive\oneDrive\Desktop\PardisKish\SampleWebApi\Sample_DataAccess\obj\Debug\net5.0\Sample_DataAccess.csproj.AssemblyReference.cache
